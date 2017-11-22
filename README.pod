@@ -1,0 +1,22 @@
+
+=head1 NAME
+Kariu . jQuery . Window Management System 
+=head1 SYNOPSIS
+
+=head1 DEPENDENCY
+
+- Kariu - Modified Version - https://gist.github.com/ytnobody/831460/63ddf38e1f8b75fbb87cdf74afc23343250b9cca#file-readme-pod
+
+- Google Fonts (Open+Sans, Pangolin, Ubuntu+Condensed)
+- Superfish Menu - https://superfish.joelbirch.co/examples/
+- Font Awsome : http://fontawesome.io
+
+- jQuery - v3.1.1
+- jQuery - Notify
+- jQuery - Redirect - https://github.com/mgalante/jquery.redirect
+
+=head1 AUTHOR
+Aitor Garcia Ortega
+=head1 LICENSE
+This script is free software. You can redistribute it and/or modify it under the same terms.
+=cut 
