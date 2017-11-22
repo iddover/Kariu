@@ -33,7 +33,7 @@ Kariu . jQuery . Window Management System
 
 - jQuery - Notify
 
-=item B<-b>
+=item 
 
 - jQuery - Redirect - https://github.com/mgalante/jquery.redirect
 
