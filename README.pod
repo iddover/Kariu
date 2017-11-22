@@ -9,25 +9,25 @@ Kariu . jQuery . Window Management System
 
 =over
 
-=item <p>
+=item B<-b>
 - Kariu - Modified Version - https://gist.github.com/ytnobody/831460/63ddf38e1f8b75fbb87cdf74afc23343250b9cca#file-readme-pod
 
-=item 
+=item B<-b>
 - Google Fonts (Open+Sans, Pangolin, Ubuntu+Condensed)
 
-=item 
+=item B<-b>
 - Superfish Menu - https://superfish.joelbirch.co/examples/
 
-=item 
+=item B<-b>
 - Font Awsome : http://fontawesome.io
 
-=item 
+=item B<-b>
 - jQuery - v3.1.1
 
-=item 
+=item B<-b>
 - jQuery - Notify
 
-=item 
+=item B<-b>
 - jQuery - Redirect - https://github.com/mgalante/jquery.redirect
 
 =back
