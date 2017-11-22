@@ -9,27 +9,27 @@ Kariu . jQuery . Window Management System
 
 =over
 
-=item B<-b>
+=item 
 
 - Kariu - Modified Version - https://gist.github.com/ytnobody/831460/63ddf38e1f8b75fbb87cdf74afc23343250b9cca#file-readme-pod
 
-=item B<-b>
+=item 
 
 - Google Fonts (Open+Sans, Pangolin, Ubuntu+Condensed)
 
-=item B<-b>
+=item 
 
 - Superfish Menu - https://superfish.joelbirch.co/examples/
 
-=item B<-b>
+=item 
 
 - Font Awsome : http://fontawesome.io
 
-=item B<-b>
+=item 
 
 - jQuery - v3.1.1
 
-=item B<-b>
+=item 
 
 - jQuery - Notify
 
