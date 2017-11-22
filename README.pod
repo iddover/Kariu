@@ -6,14 +6,22 @@ Kariu . jQuery . Window Management System
 
 =head1 DEPENDENCY
 
+=item 
 - Kariu - Modified Version - https://gist.github.com/ytnobody/831460/63ddf38e1f8b75fbb87cdf74afc23343250b9cca#file-readme-pod
 
+=item 
 - Google Fonts (Open+Sans, Pangolin, Ubuntu+Condensed)
+
+=item 
 - Superfish Menu - https://superfish.joelbirch.co/examples/
+=item 
 - Font Awsome : http://fontawesome.io
 
+=item 
 - jQuery - v3.1.1
+=item 
 - jQuery - Notify
+=item 
 - jQuery - Redirect - https://github.com/mgalante/jquery.redirect
 
 =head1 AUTHOR
