@@ -14,13 +14,16 @@ Kariu . jQuery . Window Management System
 
 =item 
 - Superfish Menu - https://superfish.joelbirch.co/examples/
+
 =item 
 - Font Awsome : http://fontawesome.io
 
 =item 
 - jQuery - v3.1.1
+
 =item 
 - jQuery - Notify
+
 =item 
 - jQuery - Redirect - https://github.com/mgalante/jquery.redirect
 
